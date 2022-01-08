@@ -1,6 +1,6 @@
-# Movie-Tickets
+# Github-Finder
 
-Find any github account and look at the account and the details in it also look which repos/projects they have done.
+Find any github account and look at the account and the details in it also look which repos/projects they have done. Using the third party API of github to fetch all the accounts and their details
 
 ## Featutes
 
